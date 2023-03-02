@@ -1,6 +1,6 @@
 # Design Resources
 
-This repository is a collection of free design resources from design templates, stock photos, icons, colors, and much more
+This repository is a collection of design resources that includes templates, stock photos, icons, color palettes...
 
 ## Table of Contents
 
@@ -27,7 +27,6 @@ Website | Description
 [Figma Resources](https://www.figmabox.com/) | A curated Figma resources, UI kits, templates & freebies to save you time and speed up your workflow
 [UI Space](https://uispace.net/) | Free PSD, AI, Fonts and more
 [Textures](https://www.textures.com) |provides a large collection of high-quality textures, materials, and 3D models for use in various digital projects such as video games, animations, and visual effects. 
-
 [Hero Patterns](https://www.heropatterns.com/) | A collection of repeatable SVG background patterns for you to use on your web projects.
 [Free Photoshop Templates](https://gitu.net/en/) | Free PSD and Adobe Xd templates.
 [Free Sketch App Resources](https://sketchfav.com/en/) | Free high quality icons, mockups and UI kits for Sketch App.
