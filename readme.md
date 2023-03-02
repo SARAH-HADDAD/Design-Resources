@@ -44,7 +44,11 @@ Website | Description
 [Checklist Design](https://www.checklist.design) | A collection of the best design practices.
 [What Font Is](https://www.whatfontis.com/?s3) | Find any font from any image.
 [IconScout](https://iconscout.com) | Over 5.8 Million+ Design Assets.
+[Blugraphic](https://www.blugraphic.com) | Includes graphics, templates, mockups, icons, fonts and other ...
+[PSDDD](https://psddd.co) | Free Photoshop & Sketch UI Templates.
+[arbfonts](https://arbfonts.com) | Arabic font.
 []() |
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -68,7 +72,9 @@ Website | Description
 [iColorpalette](https://icolorpalette.com) | Create, browse or export (aco, ase, svg, png, pdf) color palettes by color or themes.
 [Chroma](https://chroma.dev) | A free browser extension that makes it easy to pick colors off the page and build amazing and shareable color palettes.
 [Mockupworld](https://www.mockupworld.co) | Free Mockups from the Web.
+[COLOR SUPPLY](https://colorsupplyyy.com) | A color picker for designers & illustrators.
 []() |
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -90,6 +96,7 @@ Website | Description
 [Smash](https://usesmash.com/) | Awesome illustration constructor with colorful and trendy characters.
 [Open Stickers](https://openstickers.craftwork.design) |  Free illustrations for web and apps.
 []() |
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -108,6 +115,8 @@ Website | Description
 [Pixbay](https://pixabay.com) | Stunning free images & royalty free stock.
 [DeviantArt](https://www.deviantart.com) | Explore over 350 million pieces of art while connecting to fellow artists and art enthusiasts.
 [pngimg](https://pngimg.com) | PNG images and cliparts for web design.
+[StickPNG](https://www.stickpng.com/fr) | StickPNG is a vibrant community of creative people sharing transparent PNG images which you can download for free and use in your personal non-commercial or educational projects. 
+[Vecteezy](https://fr.vecteezy.com) | Free photos and videos.
 []() |
 
 <div align="right">
@@ -134,6 +143,7 @@ Website | Description
 [Simple Icons](https://simpleicons.org/) | 1897 Free SVG icons for popular brands.
 [The noun project](https://thenounproject.com) | Icons and Photos For Everything.
 [Iconfinder](https://www.iconfinder.com/) | Millions of graphics for your design projects. Created by independent designers.
+[Iconscout](https://iconscout.com) | Get 5.3 Million+ free and premium icons.
 []() |
 
 <div align="right">
@@ -152,6 +162,7 @@ Website | Description
 [Ui sources](https://www.uisources.com/home) | Real design inspiration.
 [Dribbble](https://dribbble.com/shots) | Millions of designers and agencies around the world showcase their portfolio work on Dribbble.
 [Colors and Fonts](https://www.colorsandfonts.com/) | A collection of color and typography resources for Web Developers and Digital Designers to find inspiration.
+[Logopond](https://logopond.com) | Logopond is an inspirational site & showcase of identity work from designers of varying abilities all across the world.
 []() |
 
 <div align="right">
