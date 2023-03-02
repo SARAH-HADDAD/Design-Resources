@@ -40,10 +40,10 @@ Website | Description
 [Mesh](https://meshgradient.com) | Mesh is a simple way to create beautiful, unique gradients using shadersGet started.
 [Photopea](https://www.photopea.com) | Free version of Photoshop.
 [Iconfinder](https://www.iconfinder.com/) | Millions of graphics for your design projects. Created by independent designers.
-[]() | 
-[]() | 
-[]() | 
-[]() | 
+[Designercize](https://designercize.com) | Fun game for ui/ux designe it gives you challenges with time set up.
+[Checklist Design](https://www.checklist.design) | A collection of the best design practices.
+[What Font Is](https://www.whatfontis.com/?s3) | Find any font from any image.
+[IconScout](https://iconscout.com) | Over 5.8 Million+ Design Assets.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -68,10 +68,7 @@ Website | Description
 [iColorpalette](https://icolorpalette.com) | Create, browse or export (aco, ase, svg, png, pdf) color palettes by color or themes.
 [Chroma](https://chroma.dev) | A free browser extension that makes it easy to pick colors off the page and build amazing and shareable color palettes.
 [Mockupworld](https://www.mockupworld.co) | Free Mockups from the Web.
-[]() | 
-[]() | 
-[]() | 
-[]() | 
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -92,11 +89,7 @@ Website | Description
 [Control](https://control.rocks/) | Combo set of 108 customizable illustrations.
 [Smash](https://usesmash.com/) | Awesome illustration constructor with colorful and trendy characters.
 [Open Stickers](https://openstickers.craftwork.design) |  Free illustrations for web and apps.
-[]() | 
-[]() | 
-[]() | 
-[]() | 
-[]() | 
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -113,11 +106,7 @@ Website | Description
 [PicJumbo](https://picjumbo.com/) | free stock photos, backgrounds and free high-resolution images for personal and commercial use
 [The noun project](https://thenounproject.com) | Icons and Photos For Everything.
 [Pixbay](https://pixabay.com) | Stunning free images & royalty free stock.
-[]() | 
-[]() | 
-[]() | 
-[]() | 
-[]() | 
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -142,12 +131,7 @@ Website | Description
 [Simple Icons](https://simpleicons.org/) | 1897 Free SVG icons for popular brands.
 [The noun project](https://thenounproject.com) | Icons and Photos For Everything.
 [Iconfinder](https://www.iconfinder.com/) | Millions of graphics for your design projects. Created by independent designers.
-[]() | 
-[]() | 
-[]() | 
-[]() | 
-[]() | 
-[]() | 
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -164,7 +148,7 @@ Website | Description
 [Ui sources](https://www.uisources.com/home) | Real design inspiration.
 [Dribbble](https://dribbble.com/shots) | Millions of designers and agencies around the world showcase their portfolio work on Dribbble.
 [Colors and Fonts](https://www.colorsandfonts.com/) | A collection of color and typography resources for Web Developers and Digital Designers to find inspiration.
-[]() | 
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
