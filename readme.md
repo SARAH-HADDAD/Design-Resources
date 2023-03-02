@@ -9,6 +9,7 @@ This repository is a collection of design resources that includes templates, sto
 - [Illustrations](#illustrations)
 - [Stock Photos](#stock-photos)
 - [Icons](#icons)
+- [Fronts](#fronts)
 - [Inspiration](#inspiration)
 
 ### General
@@ -42,11 +43,9 @@ Website | Description
 [Iconfinder](https://www.iconfinder.com/) | Millions of graphics for your design projects. Created by independent designers.
 [Designercize](https://designercize.com) | Fun game for ui/ux designe it gives you challenges with time set up.
 [Checklist Design](https://www.checklist.design) | A collection of the best design practices.
-[What Font Is](https://www.whatfontis.com/?s3) | Find any font from any image.
 [IconScout](https://iconscout.com) | Over 5.8 Million+ Design Assets.
 [Blugraphic](https://www.blugraphic.com) | Includes graphics, templates, mockups, icons, fonts and other ...
 [PSDDD](https://psddd.co) | Free Photoshop & Sketch UI Templates.
-[arbfonts](https://arbfonts.com) | Arabic font.
 []() |
 
 <div align="right">
@@ -146,6 +145,21 @@ Website | Description
 [Iconscout](https://iconscout.com) | Get 5.3 Million+ free and premium icons.
 []() |
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+### Fronts
+
+Website | Description
+--------|------------
+[Google Fonts](https://fonts.google.com) | Hundreds of free webfonts hosted via Google or self-hosted.
+[arbfonts](https://arbfonts.com) | Arabic font.
+[UI Space](https://uispace.net/) | Free PSD, AI, Fonts and more.
+[What Font Is](https://www.whatfontis.com/?s3) | Find any font from any image.
+[Colors and Fonts](https://www.colorsandfonts.com/) | A collection of color and typography resources for Web Developers and Digital Designers to find inspiration.
+[Font Awesome](https://fontawesome.com) | Icon library and toolki.
+[]() |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
