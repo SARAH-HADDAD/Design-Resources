@@ -1,6 +1,6 @@
 # Design Resources
 
-This repository is a collection of design resources that includes templates, stock photos, icons, color palettes...
+This repository is a collection of design resources that includes templates, stock photos, icons, fonts, color palettes...
 
 ## Table of Contents
 
