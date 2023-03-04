@@ -73,7 +73,6 @@ Website | Description
 [Chroma](https://chroma.dev) | A free browser extension that makes it easy to pick colors off the page and build amazing and shareable color palettes.
 [Mockupworld](https://www.mockupworld.co) | Free Mockups from the Web.
 [COLOR SUPPLY](https://colorsupplyyy.com) | A color picker for designers & illustrators.
-[]() |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -95,7 +94,6 @@ Website | Description
 [Control](https://control.rocks/) | Combo set of 108 customizable illustrations.
 [Smash](https://usesmash.com/) | Awesome illustration constructor with colorful and trendy characters.
 [Open Stickers](https://openstickers.craftwork.design) |  Free illustrations for web and apps.
-[]() |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -117,7 +115,6 @@ Website | Description
 [pngimg](https://pngimg.com) | PNG images and cliparts for web design.
 [StickPNG](https://www.stickpng.com/fr) | StickPNG is a vibrant community of creative people sharing transparent PNG images which you can download for free and use in your personal non-commercial or educational projects. 
 [Vecteezy](https://fr.vecteezy.com) | Free photos and videos.
-[]() |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -144,7 +141,6 @@ Website | Description
 [The noun project](https://thenounproject.com) | Icons and Photos For Everything.
 [Iconfinder](https://www.iconfinder.com/) | Millions of graphics for your design projects. Created by independent designers.
 [Iconscout](https://iconscout.com) | Get 5.3 Million+ free and premium icons (with GitHub Student Developer Pack you have free access to 60 premium icons from selected contributors every month for 1 year).
-[]() |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -164,7 +160,6 @@ Website | Description
 [YouWorkForThem](https://www.youworkforthem.com/fonts/) | Thousands of fonts in the “original creative marketplace”.
 [Colors and Fonts](https://www.colorsandfonts.com/) | A collection of color and typography resources for Web Developers and Digital Designers to find inspiration.
 [Font Awesome](https://fontawesome.com) | Icon library and toolki.
-[]() |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -185,7 +180,6 @@ Website | Description
 [Logopond](https://logopond.com) | Logopond is an inspirational site & showcase of identity work from designers of varying abilities all across the world.
 [DesignTAXI](https://designtaxi.com) | A creative platform that offers design news, resources, and inspiration on various design topics.
 [Creative Bloq](https://www.creativebloq.com) | Offers design news, inspiration, and resources on topics such as typography, branding, and illustration.
-[]() |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
