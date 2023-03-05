@@ -52,6 +52,7 @@ Website | Description
 [VistaCreate](https://create.vista.com/?otm_trial_button) |  Free graphic design tool with thousands of free templates for you to choose from. 
 [Microcopy](https://www.microcopy.me) | Search micro UX copy text: slogans, headlines, notifications, CTA, error messages, and more(free).
 [Ingradients](https://ingradients.net) | A brand-new collection of hand-picked mesh gradients perfect for your next design project.
+[Devices by Meta](https://design.facebook.com) | More than 100+ clean mockups of different types of devices used around the world.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
