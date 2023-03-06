@@ -53,6 +53,8 @@ Website | Description
 [Microcopy](https://www.microcopy.me) | Search micro UX copy text: slogans, headlines, notifications, CTA, error messages, and more(free).
 [Ingradients](https://ingradients.net) | A brand-new collection of hand-picked mesh gradients perfect for your next design project.
 [Devices by Meta](https://design.facebook.com) | More than 100+ clean mockups of different types of devices used around the world.
+[Interview Warmup](https://grow.google/certificates/interview-warmup) | A free Al tool that helps you practice for your next interview and improve your technique with insights.
+[Screely](http://screely.com) | Turn any screenshot into a beautiful website mockup instantly with a few clicks.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
