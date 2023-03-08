@@ -86,21 +86,21 @@ Website | Description
 
 ### Illustrations
 
-Website | Description | Free
---------|-------------|-------
-[unDraw](https://undraw.co/illustrations) | Open-source illustrations for any idea you can imagine and create (my fav <3). | :)
-[DrawKit](https://www.drawkit.io/) | Hand-drawn vector illustration and icon resources, perfect for your next project. |
-[Blush](https://blush.design/) | Free customizable illustrations with Figma Plugin. |
-[404 illustrations](https://error404.fun/) | Free illustrations for 404 pages. |
-[Open Peeps](https://www.openpeeps.com/) | Hand drawn illustration library. |
-[Absurd Design](https://absurd.design/) | Free surrealist illustrations and vector art. |
-[Manypixels](https://www.manypixels.co/gallery) | 2,500+ royalty-free and editable illustrations to power up your design projects. |
-[Delesign](https://delesign.com/free-designs/graphics/) | Royalty-free designs for your website, social media, blog, email newsletters, and more. |
-[Mixkit](https://mixkit.co/free-stock-art/) | Discover free art made by talented creators for websites, framed prints, ads and more. |
-[Control](https://control.rocks/) | Combo set of 108 customizable illustrations. |
-[Smash](https://usesmash.com/) | Awesome illustration constructor with colorful and trendy characters. |
-[Open Stickers](https://openstickers.craftwork.design) |  Free illustrations for web and apps. |
-[Lost Geometry](https://lostgeometry.xyz) | A set of 20+ abstract 3D shapes to give a modern and trendy look to your design work. |
+Website | Description 
+--------|------------
+[unDraw](https://undraw.co/illustrations) | Open-source illustrations for any idea you can imagine and create (my fav <3). 
+[DrawKit](https://www.drawkit.io/) | Hand-drawn vector illustration and icon resources, perfect for your next project. 
+[Blush](https://blush.design/) | Free customizable illustrations with Figma Plugin. 
+[404 illustrations](https://error404.fun/) | Free illustrations for 404 pages. 
+[Open Peeps](https://www.openpeeps.com/) | Hand drawn illustration library. 
+[Absurd Design](https://absurd.design/) | Free surrealist illustrations and vector art. 
+[Manypixels](https://www.manypixels.co/gallery) | 2,500+ royalty-free and editable illustrations to power up your design projects. 
+[Delesign](https://delesign.com/free-designs/graphics/) | Royalty-free designs for your website, social media, blog, email newsletters, and more. 
+[Mixkit](https://mixkit.co/free-stock-art/) | Discover free art made by talented creators for websites, framed prints, ads and more. 
+[Control](https://control.rocks/) | Combo set of 108 customizable illustrations. 
+[Smash](https://usesmash.com/) | Awesome illustration constructor with colorful and trendy characters. 
+[Open Stickers](https://openstickers.craftwork.design) |  Free illustrations for web and apps. 
+[Lost Geometry](https://lostgeometry.xyz) | A set of 20+ abstract 3D shapes to give a modern and trendy look to your design work. 
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
