@@ -115,7 +115,7 @@ Website | Description
 [Stock Snap](https://stocksnap.io/) | High quality and high resolution stock images free from all copyright restrictions (CC0).
 [Pixabay](https://pixabay.com/) | Free Images and video to Use Anywhere.
 [Burst](https://burst.shopify.com/) | Free stock photos for websites and commercial use.
-[PicJumbo](https://picjumbo.com/) | free stock photos, backgrounds and free high-resolution images for personal and commercial use
+[PicJumbo](https://picjumbo.com/) | free stock photos, backgrounds and free high-resolution images for personal and commercial use.
 [The noun project](https://thenounproject.com) | Icons and Photos For Everything.
 [Pixbay](https://pixabay.com) | Stunning free images & royalty free stock.
 [DeviantArt](https://www.deviantart.com) | Explore over 350 million pieces of art while connecting to fellow artists and art enthusiasts.
@@ -137,7 +137,7 @@ Website | Description
 [Material Icons](https://fonts.google.com/icons) | Delightful, beautifully crafted symbols for common actions and items.
 [Font Awesome](https://fontawesome.com) | Icon library and toolki.
 [Remix Icon](https://remixicon.com/) | Simply Delightful Icon System.
-[Noun Project](https://thenounproject.com) | Icons and photos
+[Noun Project](https://thenounproject.com) | Icons and photos.
 [CSS.gg](https://css.gg/) | Open-source CSS, SVG and Figma UI Icons that are available in SVG Sprite, styled-components, NPM & API.
 [Ikonate](https://ikonate.com/) | Fully customisable & accessible vector icons.
 [Tabler Icons](https://tabler-icons.io) | Over 3450 pixel-perfect icons for web design.
