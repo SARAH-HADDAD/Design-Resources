@@ -11,6 +11,7 @@ This repository is a collection of design resources that includes templates, sto
 - [Icons](#icons)
 - [Fronts](#fronts)
 - [Inspiration](#inspiration)
+- [Mockups](#Mockups)
 
 ### General
 
@@ -54,7 +55,7 @@ Website | Description
 [Ingradients](https://ingradients.net) | A brand-new collection of hand-picked mesh gradients perfect for your next design project.
 [Devices by Meta](https://design.facebook.com) | More than 100+ clean mockups of different types of devices used around the world.
 [Interview Warmup](https://grow.google/certificates/interview-warmup) | A free Al tool that helps you practice for your next interview and improve your technique with insights.
-[Screely](http://screely.com) | Turn any screenshot into a beautiful website mockup instantly with a few clicks.
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -187,6 +188,16 @@ Website | Description
 [Logopond](https://logopond.com) | Logopond is an inspirational site & showcase of identity work from designers of varying abilities all across the world.
 [DesignTAXI](https://designtaxi.com) | A creative platform that offers design news, resources, and inspiration on various design topics.
 [Creative Bloq](https://www.creativebloq.com) | Offers design news, inspiration, and resources on topics such as typography, branding, and illustration.
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+### Mockups
+
+Website | Description
+--------|------------
+[Screely](http://screely.com) | Turn any screenshot into a beautiful website mockup instantly with a few clicks.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
