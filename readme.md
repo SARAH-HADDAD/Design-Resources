@@ -168,6 +168,7 @@ Website | Description
 [YouWorkForThem](https://www.youworkforthem.com/fonts/) | Thousands of fonts in the “original creative marketplace”.
 [Colors and Fonts](https://www.colorsandfonts.com/) | A collection of color and typography resources for Web Developers and Digital Designers to find inspiration.
 [Font Awesome](https://fontawesome.com) | Icon library and toolki.
+[Dafont](https://www.dafont.com) | Download fonts.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
