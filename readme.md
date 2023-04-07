@@ -139,7 +139,6 @@ Website | Description
 [Material Icons](https://fonts.google.com/icons) | Delightful, beautifully crafted symbols for common actions and items.
 [Font Awesome](https://fontawesome.com) | Icon library and toolki.
 [Remix Icon](https://remixicon.com/) | Simply Delightful Icon System.
-[Noun Project](https://thenounproject.com) | Icons and photos.
 [CSS.gg](https://css.gg/) | Open-source CSS, SVG and Figma UI Icons that are available in SVG Sprite, styled-components, NPM & API.
 [Ikonate](https://ikonate.com/) | Fully customisable & accessible vector icons.
 [Tabler Icons](https://tabler-icons.io) | Over 3450 pixel-perfect icons for web design.
