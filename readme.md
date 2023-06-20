@@ -169,6 +169,8 @@ Website | Description
 [Colors and Fonts](https://www.colorsandfonts.com/) | A collection of color and typography resources for Web Developers and Digital Designers to find inspiration.
 [Font Awesome](https://fontawesome.com) | Icon library and toolki.
 [Dafont](https://www.dafont.com) | Download fonts.
+[1001 Fonts](https://www.1001fonts.com) | New & Fresh Fonts.
+[Font Squirrel](https://www.fontsquirrel.com) | Free Font.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
