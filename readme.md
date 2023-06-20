@@ -165,12 +165,14 @@ Website | Description
 [What Font Is](https://www.whatfontis.com/?s3) | Find any font from any image.
 [MyFonts](https://www.myfonts.com) | Thousands of fonts from all kinds of foundries, includes some trial fonts & free families.
 [Type Network](https://typenetwork.com) | Incredibly high-quality fonts by select independent foundries.
+[Font Freak](https://www.fontfreak.com/fonts-new.htm) | Free Fonts.
 [YouWorkForThem](https://www.youworkforthem.com/fonts/) | Thousands of fonts in the “original creative marketplace”.
 [Colors and Fonts](https://www.colorsandfonts.com/) | A collection of color and typography resources for Web Developers and Digital Designers to find inspiration.
 [Font Awesome](https://fontawesome.com) | Icon library and toolki.
 [Dafont](https://www.dafont.com) | Download fonts.
 [1001 Fonts](https://www.1001fonts.com) | New & Fresh Fonts.
 [Font Squirrel](https://www.fontsquirrel.com) | Free Font.
+[Fontshop](https://www.fontshop.com/free-fonts) | Checkout and have fun.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
