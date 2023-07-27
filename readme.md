@@ -56,6 +56,7 @@ Website | Description
 [Devices by Meta](https://design.facebook.com) | More than 100+ clean mockups of different types of devices used around the world.
 [Interview Warmup](https://grow.google/certificates/interview-warmup) | A free Al tool that helps you practice for your next interview and improve your technique with insights.
 [Pitch](pitch.com)| This tool allows you to create impressive presentations in a colaborative way.
+[PicWish](picwish.com)| Al tools to easily remove backgrounds of any of your images.
 
 
 <div align="right">
