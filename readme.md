@@ -179,6 +179,7 @@ Website | Description
 [1001 Fonts](https://www.1001fonts.com) | New & Fresh Fonts.
 [Font Squirrel](https://www.fontsquirrel.com) | Free Font.
 [Fontshop](https://www.fontshop.com/free-fonts) | Checkout and have fun.
+[Velvetyne](https://velvetyne.fr/) | A lot of free typefaces to choose.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
