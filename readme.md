@@ -55,7 +55,7 @@ Website | Description
 [Ingradients](https://ingradients.net) | A brand-new collection of hand-picked mesh gradients perfect for your next design project.
 [Devices by Meta](https://design.facebook.com) | More than 100+ clean mockups of different types of devices used around the world.
 [Interview Warmup](https://grow.google/certificates/interview-warmup) | A free Al tool that helps you practice for your next interview and improve your technique with insights.
-[Pitch](pitch.com)| This tool allows you to create impressive presentations in a colaborative way.
+[Pitch](https://pitch.com/)| This tool allows you to create impressive presentations in a colaborative way.
 [PicWish](https://picwish.com/)| Al tools to easily remove backgrounds of any of your images.
 [Hemingway Editor](https://hemingwayapp.com/) | Hemingway App makes your writing bold and clear. The app highlights lengthy, complex sentences and common errors.
 [UsabilityHub](https://usabilityhub.com/) | UsabilityHub is a remote user research platform that takes the guesswork out of design decisions by validating them with real users.
@@ -85,7 +85,7 @@ Website | Description
 [Mockupworld](https://www.mockupworld.co) | Free Mockups from the Web.
 [COLOR SUPPLY](https://colorsupplyyy.com) | A color picker for designers & illustrators.
 [rgb2cmyk](https://www.rgb2cmyk.org) | Convert images from RGB to the CMYK color space.
-[Khroma](khroma.co)| Khroma uses AI to learn which colors you like and creates limitless palettes.
+[Khroma](https://www.khroma.co/)| Khroma uses AI to learn which colors you like and creates limitless palettes.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -108,7 +108,7 @@ Website | Description
 [Smash](https://usesmash.com/) | Awesome illustration constructor with colorful and trendy characters. 
 [Open Stickers](https://openstickers.craftwork.design) |  Free illustrations for web and apps. 
 [Lost Geometry](https://lostgeometry.xyz) | A set of 20+ abstract 3D shapes to give a modern and trendy look to your design work. 
-[Spline](spline.design) | Creating beautiful 3D.
+[Spline](https://spline.design/) | Creating beautiful 3D.
 [Shapefest](https://www.shapefest.com/) | Beautiful free 3D objects, icons and illustrations with different materials.
 
 <div align="right">
