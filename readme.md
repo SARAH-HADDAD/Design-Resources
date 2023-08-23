@@ -88,6 +88,7 @@ Website | Description
 [rgb2cmyk](https://www.rgb2cmyk.org) | Convert images from RGB to the CMYK color space.
 [Khroma](https://www.khroma.co/)| Khroma uses AI to learn which colors you like and creates limitless palettes.
 [Colorable](https://colorable.jxnblk.com/) | Take a set color palette and get contrast values for every possible combination.
+[Paletton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) | It allows you to do is build up a palette based on some proportion.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -232,6 +233,7 @@ Website | Description
 [Grid by Example](https://gridbyexample.com/) | This site is a collection of examples, video and other information to help you learn CSS Grid Layout. 
 [THE EXPERIMENTAL LAYOUT LAB](https://labs.jensimmons.com/) | Learn what's now possible in graphic design on the web : layout, CSS Grid, and more. 
 [CSS Crid Generator](https://cssgrid-generator.netlify.app/) | This project is a way for people to use CSS Grid features quickly to create dynamic layouts.
+[Ultimate CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/) | if you already have two colors and you need to make a CSS gradient, it outputs the code for it really nicely and gives you fallback and sorts of stuff.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
