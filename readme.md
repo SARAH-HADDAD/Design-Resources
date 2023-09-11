@@ -136,6 +136,8 @@ Website | Description
 [Vecteezy](https://fr.vecteezy.com) | Free photos and videos.
 [Let's Enhance](https://letsenhance.io)| Let's Enhance is an Al tool to increase your images resolution without quality loss. 
 [STOCKIMG.AI](https://stockimg.ai) | Generate stock image with AI.
+[FreeImages](https://www.freeimages.com/) | Free Images: Photos, Vectors, Clipart, Icons, PSD & more!
+[Freepik](https://www.freepik.com/) | Find and download the best high-quality photos, vectors, videos, and mockups.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
