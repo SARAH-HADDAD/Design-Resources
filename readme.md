@@ -215,7 +215,7 @@ Website | Description
 [Lapa](https://www.lapa.ninja/)| Lapa Ninja is a gallery featuring the best 5751 landing page examples, free books for designers and free UI kits from around the web.
 [Bestfolios](https://www.bestfolios.com/home)| Bestfolios is a gallery featuring 502 portfolios, 200 resumes and many more design inspirations.
 [Screenlane](https://screenlane.com/)| Find inspiration and keep up with the latest mobile UI design trends.
-[GoodUx](https://goodux.appcues.com/]| Inspiring UX, straight to your inbox.
+[GoodUx](https://goodux.appcues.com/)| Inspiring UX, straight to your inbox.
 
 
 ### Mockups
