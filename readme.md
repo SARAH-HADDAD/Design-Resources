@@ -212,10 +212,11 @@ Website | Description
 [DesignTAXI](https://designtaxi.com) | A creative platform that offers design news, resources, and inspiration on various design topics.
 [Creative Bloq](https://www.creativebloq.com) | Offers design news, inspiration, and resources on topics such as typography, branding, and illustration.
 [Mobbin](https://mobbin.com/browse/ios/apps?sort=publishedAt) | Inspire & empower the world to design better digital experiences.
+[Lapa](https://www.lapa.ninja/)| Lapa Ninja is a gallery featuring the best 5751 landing page examples, free books for designers and free UI kits from around the web.
+[Bestfolios](https://www.bestfolios.com/home)| Bestfolios is a gallery featuring 502 portfolios, 200 resumes and many more design inspirations.
+[Screenlane](https://screenlane.com/)| Find inspiration and keep up with the latest mobile UI design trends.
+[GoodUx](https://goodux.appcues.com/]| Inspiring UX, straight to your inbox.
 
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
 
 ### Mockups
 
