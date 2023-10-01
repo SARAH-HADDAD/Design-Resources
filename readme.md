@@ -61,6 +61,8 @@ Website | Description
 [Hemingway Editor](https://hemingwayapp.com/) | Hemingway App makes your writing bold and clear. The app highlights lengthy, complex sentences and common errors.
 [UsabilityHub](https://usabilityhub.com/) | UsabilityHub is a remote user research platform that takes the guesswork out of design decisions by validating them with real users.
 [Attention insight](https://app.attentioninsight.com/) | Attention Insight's AI automatically predicts changes in visual attention based on 70,000 images from eye-tracking studies.
+[UX Design Challenges](https://uxtools.co/challenges/)| Practice with real-world exercises. Train yourself in crucial skills and tools. Take away portfolio-worthy deliverables. Useful for beginners and experts alike.
+[UX Challenge](https://www.uxchallenge.co/)| Practice solving problems with UX design challenges.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
