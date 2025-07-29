@@ -18,7 +18,7 @@ This repository is a collection of design resources that includes templates, sto
 
 Website | Description
 --------|------------
-[htmlrev](HTMLrev.com ) | Free HTML CSS templates.
+[htmlrev](HTMLrev.com) | Free HTML CSS templates.
 [Freepik](https://www.freepik.com) | All the assets you need, in one place.
 [Freebiesbug](https://freebiesbug.com/) | Hand-picked resources for web designer and developers, constantly updated.
 [Sketch App Sources](https://www.sketchappsources.com/) | Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch
