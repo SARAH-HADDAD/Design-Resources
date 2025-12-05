@@ -150,6 +150,7 @@ Website | Description
 
 Website | Description
 --------|------------
+[Lord Icon](https://lordicon.com/) | Access 39,400+ animated icons.
 [Circum Icons](https://circumicons.com/) | Consistent open source icons as SVG for React, Vue and Svelte.
 [Feather Icons](https://feathericons.com/) | Simply beautiful open source icons.
 [Streamline Icons](https://streamlineicons.com/) | Download 30,000 free PNG icons for website, web app, software, web design.
