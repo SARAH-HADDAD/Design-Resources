@@ -150,6 +150,7 @@ Website | Description
 
 Website | Description
 --------|------------
+[SVG Repo](https://www.svgrepo.com/) | 500.000+ Open-licensed SVG Vector and Icons
 [Lord Icon](https://lordicon.com/) | Access 39,400+ animated icons.
 [Circum Icons](https://circumicons.com/) | Consistent open source icons as SVG for React, Vue and Svelte.
 [Feather Icons](https://feathericons.com/) | Simply beautiful open source icons.
