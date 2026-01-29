@@ -10,7 +10,7 @@ This repository is a collection of design resources that includes templates, sto
 - [Illustrations](#illustrations)
 - [Stock Photos](#stock-photos)
 - [Icons](#icons)
-- [Fronts](#fronts)
+- [Fonts](#fonts)
 - [Mockups](#mockups)
 - [Design For Developers](#design-for-developers)
 - [General](#general)
