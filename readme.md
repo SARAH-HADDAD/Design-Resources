@@ -205,6 +205,9 @@ Website | Description
 
 Website | Description
 --------|------------
+[Muzli Search](https://search.muz.li) | The web-wide search engine for design inspiration.
+[Designspiration](https://www.designspiration.com) | Creative inspiration, colors, links, notes, screenshots
+[Archivepdf](https://www.archivepdf.net) |Vintage scans of fashion magazines
 [websitevice](https://websitevice.com/) | Website examples for inspiration, dedicated to creators focused on getting results rather than collecting awards.
 [CodeMyUI](https://codemyui.com) | Handpicked collection of web design & UI inspiration with code snippets.
 [Behance](https://www.behance.net) | Connect with other creatives, and discover new talent.
