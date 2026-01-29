@@ -5,7 +5,7 @@ This repository is a collection of design resources that includes templates, sto
 ## Table of Contents
 
 - [Inspiration](#inspiration)
-- [Generators & Creative Tools](#generators-and-creative-tools)
+- [Generators & Creative Tools](#generators--creative-tools)
 - [Colors](#colors)
 - [Illustrations](#illustrations)
 - [Stock Photos](#stock-photos)
