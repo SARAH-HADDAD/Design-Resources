@@ -4,66 +4,56 @@ This repository is a collection of design resources that includes templates, sto
 
 ## Table of Contents
 
-- [General](#general)
+- [Inspiration](#inspiration)
+- [Generators & Creative Tools](#generators-and-creative-tools)
 - [Colors](#colors)
 - [Illustrations](#illustrations)
 - [Stock Photos](#stock-photos)
 - [Icons](#icons)
 - [Fronts](#fronts)
-- [Inspiration](#inspiration)
 - [Mockups](#Mockups)
 - [Design For Developers](#Design-for-developers)
+- [General](#general)
 
-### General
+### Inspiration
 
 Website | Description
 --------|------------
-[htmlrev](https://htmlrev.com)| Free HTML CSS templates.
-[Freepik](https://www.freepik.com) | All the assets you need, in one place.
-[Freebiesbug](https://freebiesbug.com/) | Hand-picked resources for web designer and developers, constantly updated.
-[Sketch App Sources](https://www.sketchappsources.com/) | Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch
-[Figma Community](https://www.figma.com/community) | Explore, install, use, and remix thousands of files and plugins
-[Uplabs](https://www.uplabs.com/) | Unlimited UI Kits, Icons, Templates, Themes and More (free & premium )
-[GrapicBurger](https://graphicburger.com/) | Design resources.
-[InvisionApp](https://www.invisionapp.com/inside-design/design-resources/) | Browse our library of free, high-quality UI kits, icon packs, and mockups
-[Freebiesketch](https://freebiesketch.com/) | Free resources for UX / UI Designer and Developers.
-[100 Daily UI](https://100dailyui.webflow.io/) | Free Figma library of products, elements, and screens
-[Figma Resources](https://www.figmabox.com/) | A curated Figma resources, UI kits, templates & freebies to save you time and speed up your workflow
-[UI Space](https://uispace.net/) | Free PSD, AI, Fonts and more
-[Textures](https://www.textures.com) |provides a large collection of high-quality textures, materials, and 3D models for use in various digital projects such as video games, animations, and visual effects. 
-[Hero Patterns](https://www.heropatterns.com/) | A collection of repeatable SVG background patterns for you to use on your web projects.
-[Free Photoshop Templates](https://gitu.net/en/) | Free PSD and Adobe Xd templates.
-[Free Sketch App Resources](https://sketchfav.com/en/) | Free high quality icons, mockups and UI kits for Sketch App.
-[Themeselection](https://themeselection.com/) | Selected high quality, modern design, professional and easy-to-use Free Bootstrap Admin Dashboard Template, HTML Themes and UI Kits to create your applications faster!
-[GetWaves](https://getwaves.io/) | SVG random waves generator (available as Figma plugin).
-[BlobMaker](https://www.blobmaker.app/) | SVG random blob generator (available as Figma plugin).
-[Envato Element](https://elements.envato.com) | Digital assets marketplace that offers a variety of creative resources for designers, developers, and content creators. These resources include templates, graphics, audio, video, photography, and other digital assets. 
-[Super designer](https://superdesigner.co) | Collection of free design tools to create unique backgrounds, patterns, shapes, images, and more with just a few clicks.
-[Fffuel](https://fffuel.co) | Collection of color tools and free SVG generators for gradients, patterns, textures, shapes, backgrounds & decorative graphics.
-[Compressor](https://compressor.io) | Fast & efficient image compression.
-[Mesh](https://meshgradient.com) | Mesh is a simple way to create beautiful, unique gradients using shadersGet started.
-[Photopea](https://www.photopea.com) | Free version of Photoshop.
-[Iconfinder](https://www.iconfinder.com/) | Millions of graphics for your design projects. Created by independent designers.
-[Designercize](https://designercize.com) | Fun game for ui/ux designe it gives you challenges with time set up.
-[Checklist Design](https://www.checklist.design) | A collection of the best design practices.
-[IconScout](https://iconscout.com) | Over 5.8 Million+ Design Assets.
-[Blugraphic](https://www.blugraphic.com) | Includes graphics, templates, mockups, icons, fonts and other ...
-[PSDDD](https://psddd.co) | Free Photoshop & Sketch UI Templates.
-[removebg](https://www.remove.bg) | Remove Image Background.
-[Icons8](https://icons8.com) | Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects(with GitHub Student Developer Pack you will have 3-month All Access subscription with icons, photos, illustrations, and music).
-[paaatterns](https://products.ls.graphics/paaatterns/) | Free collection of beautiful patterns for all vector formats.
-[VistaCreate](https://create.vista.com/?otm_trial_button) |  Free graphic design tool with thousands of free templates for you to choose from. 
-[Microcopy](https://www.microcopy.me) | Search micro UX copy text: slogans, headlines, notifications, CTA, error messages, and more(free).
-[Ingradients](https://ingradients.net) | A brand-new collection of hand-picked mesh gradients perfect for your next design project.
-[Devices by Meta](https://design.facebook.com) | More than 100+ clean mockups of different types of devices used around the world.
-[Interview Warmup](https://grow.google/certificates/interview-warmup) | A free Al tool that helps you practice for your next interview and improve your technique with insights.
-[Pitch](https://pitch.com/)| This tool allows you to create impressive presentations in a colaborative way.
-[PicWish](https://picwish.com/)| Al tools to easily remove backgrounds of any of your images.
-[Hemingway Editor](https://hemingwayapp.com/) | Hemingway App makes your writing bold and clear. The app highlights lengthy, complex sentences and common errors.
-[UsabilityHub](https://usabilityhub.com/) | UsabilityHub is a remote user research platform that takes the guesswork out of design decisions by validating them with real users.
-[Attention insight](https://app.attentioninsight.com/) | Attention Insight's AI automatically predicts changes in visual attention based on 70,000 images from eye-tracking studies.
-[UX Design Challenges](https://uxtools.co/challenges/)| Practice with real-world exercises. Train yourself in crucial skills and tools. Take away portfolio-worthy deliverables. Useful for beginners and experts alike.
-[UX Challenge](https://www.uxchallenge.co/)| Practice solving problems with UX design challenges.
+[Muzli Search](https://search.muz.li) | The web-wide search engine for design inspiration.
+[Designspiration](https://www.designspiration.com) | Creative inspiration, colors, links, notes, screenshots
+[Archivepdf](https://www.archivepdf.net) |Vintage scans of fashion magazines
+[websitevice](https://websitevice.com/) | Website examples for inspiration, dedicated to creators focused on getting results rather than collecting awards.
+[CodeMyUI](https://codemyui.com) | Handpicked collection of web design & UI inspiration with code snippets.
+[Behance](https://www.behance.net) | Connect with other creatives, and discover new talent.
+[Pinterset](https://www.pinterest.com) | Inspiration for various topics.
+[Graphicsfuel](https://www.graphicsfuel.com) | Free and premium quality designs, articles, inspiration and more.
+[Awwward](https://www.awwwards.com) | Website web design world award.
+[Ui sources](https://www.uisources.com/home) | Real design inspiration.
+[Dribbble](https://dribbble.com/shots) | Millions of designers and agencies around the world showcase their portfolio work on Dribbble.
+[Colors and Fonts](https://www.colorsandfonts.com/) | A collection of color and typography resources for Web Developers and Digital Designers to find inspiration.
+[Logopond](https://logopond.com) | Logopond is an inspirational site & showcase of identity work from designers of varying abilities all across the world.
+[DesignTAXI](https://designtaxi.com) | A creative platform that offers design news, resources, and inspiration on various design topics.
+[Creative Bloq](https://www.creativebloq.com) | Offers design news, inspiration, and resources on topics such as typography, branding, and illustration.
+[Mobbin](https://mobbin.com/browse/ios/apps?sort=publishedAt) | Inspire & empower the world to design better digital experiences.
+[Lapa](https://www.lapa.ninja/)| Lapa Ninja is a gallery featuring the best 5751 landing page examples, free books for designers and free UI kits from around the web.
+[Bestfolios](https://www.bestfolios.com/home)| Bestfolios is a gallery featuring 502 portfolios, 200 resumes and many more design inspirations.
+[Screenlane](https://screenlane.com/)| Find inspiration and keep up with the latest mobile UI design trends.
+[GoodUx](https://goodux.appcues.com/)| Inspiring UX, straight to your inbox.
+[Cofolios](https://www.cofolios.com/)| Showcase a lot of successful ux porfolio.
+[Savee](https://savee.com/)| A space to discover new ideas, save what you love and share them with others.
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+### Generators & Creative Tools
+
+Website | Description
+--------|------------
+[Shapes (Framer)](https://shapes.framer.website) | Create and customize generative vector shapes for UI & graphics.
+[BlobMaker](https://www.blobmaker.app/) | SVG blob generator.
+[GetWaves](https://getwaves.io/) | SVG wave generator.
+[Fffuel](https://fffuel.co) | Generative gradient patterns, shapes & textures.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -201,37 +191,6 @@ Website | Description
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-### Inspiration
-
-Website | Description
---------|------------
-[Muzli Search](https://search.muz.li) | The web-wide search engine for design inspiration.
-[Designspiration](https://www.designspiration.com) | Creative inspiration, colors, links, notes, screenshots
-[Archivepdf](https://www.archivepdf.net) |Vintage scans of fashion magazines
-[websitevice](https://websitevice.com/) | Website examples for inspiration, dedicated to creators focused on getting results rather than collecting awards.
-[CodeMyUI](https://codemyui.com) | Handpicked collection of web design & UI inspiration with code snippets.
-[Behance](https://www.behance.net) | Connect with other creatives, and discover new talent.
-[Pinterset](https://www.pinterest.com) | Inspiration for various topics.
-[Graphicsfuel](https://www.graphicsfuel.com) | Free and premium quality designs, articles, inspiration and more.
-[Awwward](https://www.awwwards.com) | Website web design world award.
-[Ui sources](https://www.uisources.com/home) | Real design inspiration.
-[Dribbble](https://dribbble.com/shots) | Millions of designers and agencies around the world showcase their portfolio work on Dribbble.
-[Colors and Fonts](https://www.colorsandfonts.com/) | A collection of color and typography resources for Web Developers and Digital Designers to find inspiration.
-[Logopond](https://logopond.com) | Logopond is an inspirational site & showcase of identity work from designers of varying abilities all across the world.
-[DesignTAXI](https://designtaxi.com) | A creative platform that offers design news, resources, and inspiration on various design topics.
-[Creative Bloq](https://www.creativebloq.com) | Offers design news, inspiration, and resources on topics such as typography, branding, and illustration.
-[Mobbin](https://mobbin.com/browse/ios/apps?sort=publishedAt) | Inspire & empower the world to design better digital experiences.
-[Lapa](https://www.lapa.ninja/)| Lapa Ninja is a gallery featuring the best 5751 landing page examples, free books for designers and free UI kits from around the web.
-[Bestfolios](https://www.bestfolios.com/home)| Bestfolios is a gallery featuring 502 portfolios, 200 resumes and many more design inspirations.
-[Screenlane](https://screenlane.com/)| Find inspiration and keep up with the latest mobile UI design trends.
-[GoodUx](https://goodux.appcues.com/)| Inspiring UX, straight to your inbox.
-[Cofolios](https://www.cofolios.com/)| Showcase a lot of successful ux porfolio.
-[Savee](https://savee.com/)| A space to discover new ideas, save what you love and share them with others.
-
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
-
 ### Mockups
 
 Website | Description
@@ -257,6 +216,59 @@ Website | Description
 [CodePen](https://codepen.io/) | CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
 [Give ’n’ Go](https://give-n-go.co/) | A curated gallery of Dribbble shots reworked as interactive CodePen pens.
 [CSS Dradient](https://cssgradient.io/) | CSS Gradient lets you create free gradient backgrounds for your website.
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+### General
+
+Website | Description
+--------|------------
+[Graphy](https://graphy.new) | Instantly create clean, shareable charts and data visualizations from your data.
+[htmlrev](https://htmlrev.com)| Free HTML CSS templates.
+[Freepik](https://www.freepik.com) | All the assets you need, in one place.
+[Freebiesbug](https://freebiesbug.com/) | Hand-picked resources for web designer and developers, constantly updated.
+[Sketch App Sources](https://www.sketchappsources.com/) | Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch
+[Figma Community](https://www.figma.com/community) | Explore, install, use, and remix thousands of files and plugins
+[Uplabs](https://www.uplabs.com/) | Unlimited UI Kits, Icons, Templates, Themes and More (free & premium )
+[GrapicBurger](https://graphicburger.com/) | Design resources.
+[InvisionApp](https://www.invisionapp.com/inside-design/design-resources/) | Browse our library of free, high-quality UI kits, icon packs, and mockups
+[Freebiesketch](https://freebiesketch.com/) | Free resources for UX / UI Designer and Developers.
+[100 Daily UI](https://100dailyui.webflow.io/) | Free Figma library of products, elements, and screens
+[Figma Resources](https://www.figmabox.com/) | A curated Figma resources, UI kits, templates & freebies to save you time and speed up your workflow
+[UI Space](https://uispace.net/) | Free PSD, AI, Fonts and more
+[Textures](https://www.textures.com) |provides a large collection of high-quality textures, materials, and 3D models for use in various digital projects such as video games, animations, and visual effects. 
+[Hero Patterns](https://www.heropatterns.com/) | A collection of repeatable SVG background patterns for you to use on your web projects.
+[Free Photoshop Templates](https://gitu.net/en/) | Free PSD and Adobe Xd templates.
+[Free Sketch App Resources](https://sketchfav.com/en/) | Free high quality icons, mockups and UI kits for Sketch App.
+[Themeselection](https://themeselection.com/) | Selected high quality, modern design, professional and easy-to-use Free Bootstrap Admin Dashboard Template, HTML Themes and UI Kits to create your applications faster!
+[Envato Element](https://elements.envato.com) | Digital assets marketplace that offers a variety of creative resources for designers, developers, and content creators. These resources include templates, graphics, audio, video, photography, and other digital assets. 
+[Super designer](https://superdesigner.co) | Collection of free design tools to create unique backgrounds, patterns, shapes, images, and more with just a few clicks.
+[Compressor](https://compressor.io) | Fast & efficient image compression.
+[Mesh](https://meshgradient.com) | Mesh is a simple way to create beautiful, unique gradients using shadersGet started.
+[Photopea](https://www.photopea.com) | Free version of Photoshop.
+[Iconfinder](https://www.iconfinder.com/) | Millions of graphics for your design projects. Created by independent designers.
+[Designercize](https://designercize.com) | Fun game for ui/ux designe it gives you challenges with time set up.
+[Checklist Design](https://www.checklist.design) | A collection of the best design practices.
+[IconScout](https://iconscout.com) | Over 5.8 Million+ Design Assets.
+[Blugraphic](https://www.blugraphic.com) | Includes graphics, templates, mockups, icons, fonts and other ...
+[PSDDD](https://psddd.co) | Free Photoshop & Sketch UI Templates.
+[removebg](https://www.remove.bg) | Remove Image Background.
+[Icons8](https://icons8.com) | Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects(with GitHub Student Developer Pack you will have 3-month All Access subscription with icons, photos, illustrations, and music).
+[paaatterns](https://products.ls.graphics/paaatterns/) | Free collection of beautiful patterns for all vector formats.
+[VistaCreate](https://create.vista.com/?otm_trial_button) |  Free graphic design tool with thousands of free templates for you to choose from. 
+[Microcopy](https://www.microcopy.me) | Search micro UX copy text: slogans, headlines, notifications, CTA, error messages, and more(free).
+[Ingradients](https://ingradients.net) | A brand-new collection of hand-picked mesh gradients perfect for your next design project.
+[Devices by Meta](https://design.facebook.com) | More than 100+ clean mockups of different types of devices used around the world.
+[Interview Warmup](https://grow.google/certificates/interview-warmup) | A free Al tool that helps you practice for your next interview and improve your technique with insights.
+[Pitch](https://pitch.com/)| This tool allows you to create impressive presentations in a colaborative way.
+[PicWish](https://picwish.com/)| Al tools to easily remove backgrounds of any of your images.
+[Hemingway Editor](https://hemingwayapp.com/) | Hemingway App makes your writing bold and clear. The app highlights lengthy, complex sentences and common errors.
+[UsabilityHub](https://usabilityhub.com/) | UsabilityHub is a remote user research platform that takes the guesswork out of design decisions by validating them with real users.
+[Attention insight](https://app.attentioninsight.com/) | Attention Insight's AI automatically predicts changes in visual attention based on 70,000 images from eye-tracking studies.
+[UX Design Challenges](https://uxtools.co/challenges/)| Practice with real-world exercises. Train yourself in crucial skills and tools. Take away portfolio-worthy deliverables. Useful for beginners and experts alike.
+[UX Challenge](https://www.uxchallenge.co/)| Practice solving problems with UX design challenges.
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
