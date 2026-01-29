@@ -11,8 +11,8 @@ This repository is a collection of design resources that includes templates, sto
 - [Stock Photos](#stock-photos)
 - [Icons](#icons)
 - [Fronts](#fronts)
-- [Mockups](#Mockups)
-- [Design For Developers](#Design-for-developers)
+- [Mockups](#mockups)
+- [Design For Developers](#design-for-developers)
 - [General](#general)
 
 ### Inspiration
