@@ -106,6 +106,7 @@ Website | Description
 [Lost Geometry](https://lostgeometry.xyz) | A set of 20+ abstract 3D shapes to give a modern and trendy look to your design work. 
 [Spline](https://spline.design/) | Creating beautiful 3D.
 [Shapefest](https://www.shapefest.com/) | Beautiful free 3D objects, icons and illustrations with different materials.
+[Illustrations.run](https://illustrations.run) | Free playful SVG scribbles and abstract illustrations you can paste directly into Figma or download for free.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -141,6 +142,7 @@ Website | Description
 Website | Description
 --------|------------
 [SVG Repo](https://www.svgrepo.com/) | 500.000+ Open-licensed SVG Vector and Icons
+[Consax](https://consax.io) | A modern, utility-first UI component system for React apps.
 [Lord Icon](https://lordicon.com/) | Access 39,400+ animated icons.
 [Circum Icons](https://circumicons.com/) | Consistent open source icons as SVG for React, Vue and Svelte.
 [Feather Icons](https://feathericons.com/) | Simply beautiful open source icons.
