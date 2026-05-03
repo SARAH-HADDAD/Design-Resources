@@ -180,6 +180,7 @@ Website | Description
 [Font Freak](https://www.fontfreak.com/fonts-new.htm) | Free Fonts.
 [YouWorkForThem](https://www.youworkforthem.com/fonts/) | Thousands of fonts in the “original creative marketplace”.
 [Colors and Fonts](https://www.colorsandfonts.com/) | A collection of color and typography resources for Web Developers and Digital Designers to find inspiration.
+[FontsWiki](https://fontswiki.com/) | Searchable font catalog with free alternatives, pairings, and fonts-in-use references.
 [Font Awesome](https://fontawesome.com) | Icon library and toolki.
 [Dafont](https://www.dafont.com) | Download fonts.
 [1001 Fonts](https://www.1001fonts.com) | New & Fresh Fonts.
