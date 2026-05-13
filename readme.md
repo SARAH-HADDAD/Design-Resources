@@ -41,6 +41,9 @@ Website | Description
 [GoodUx](https://goodux.appcues.com/)| Inspiring UX, straight to your inbox.
 [Cofolios](https://www.cofolios.com/)| Showcase a lot of successful ux porfolio.
 [Savee](https://savee.com/)| A space to discover new ideas, save what you love and share them with others.
+[Cosmos](https://www.cosmos.so) | A visual bookmarking and moodboard tool for designers to collect and organize inspiration.
+[BA-Reps](https://www.ba-reps.com) | Portfolio site representing top illustrators and artists for editorial and commercial work.
+[Visual Journal](https://visualjournal.it) | Italian design and visual culture journal showcasing creative projects and visual inspiration.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
