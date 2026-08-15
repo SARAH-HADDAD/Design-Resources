@@ -252,6 +252,7 @@ Website | Description
 [Envato Element](https://elements.envato.com) | Digital assets marketplace that offers a variety of creative resources for designers, developers, and content creators. These resources include templates, graphics, audio, video, photography, and other digital assets. 
 [Super designer](https://superdesigner.co) | Collection of free design tools to create unique backgrounds, patterns, shapes, images, and more with just a few clicks.
 [Compressor](https://compressor.io) | Fast & efficient image compression.
+[DeerImage](https://deerimage.com/) | Free no-sign-up browser tools for image compression, conversion, resizing, and editing.
 [Mesh](https://meshgradient.com) | Mesh is a simple way to create beautiful, unique gradients using shadersGet started.
 [Photopea](https://www.photopea.com) | Free version of Photoshop.
 [Iconfinder](https://www.iconfinder.com/) | Millions of graphics for your design projects. Created by independent designers.
