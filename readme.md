@@ -164,6 +164,7 @@ Website | Description
 [The noun project](https://thenounproject.com) | Icons and Photos For Everything.
 [Iconfinder](https://www.iconfinder.com/) | Millions of graphics for your design projects. Created by independent designers.
 [Iconscout](https://iconscout.com) | Get 5.3 Million+ free and premium icons (with GitHub Student Developer Pack you have free access to 60 premium icons from selected contributors every month for 1 year).
+[SVGicons](https://svgicons.com/) | Search and copy SVG icons from open-source icon sets.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
