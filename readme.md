@@ -86,6 +86,7 @@ Website | Description
 [Khroma](https://www.khroma.co/)| Khroma uses AI to learn which colors you like and creates limitless palettes.
 [Colorable](https://colorable.jxnblk.com/) | Take a set color palette and get contrast values for every possible combination.
 [Paletton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) | It allows you to do is build up a palette based on some proportion.
+[Color Genius](https://colorgenius.art/) | A free color perception game: match RGB colors by eye to train your color sense.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
