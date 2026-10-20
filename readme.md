@@ -255,6 +255,7 @@ Website | Description
 [Compressor](https://compressor.io) | Fast & efficient image compression.
 [Mesh](https://meshgradient.com) | Mesh is a simple way to create beautiful, unique gradients using shadersGet started.
 [Photopea](https://www.photopea.com) | Free version of Photoshop.
+[Pic2SVG](https://pic2svg.com/) | Raster-to-vector tracing with a dedicated split preview and enlarged view. Anonymous tracing and preview are free; downloads require Pro. Images are processed on the server.
 [Iconfinder](https://www.iconfinder.com/) | Millions of graphics for your design projects. Created by independent designers.
 [Designercize](https://designercize.com) | Fun game for ui/ux designe it gives you challenges with time set up.
 [Checklist Design](https://www.checklist.design) | A collection of the best design practices.
