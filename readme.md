@@ -44,6 +44,7 @@ Website | Description
 [Cosmos](https://www.cosmos.so) | A visual bookmarking and moodboard tool for designers to collect and organize inspiration.
 [BA-Reps](https://www.ba-reps.com) | Portfolio site representing top illustrators and artists for editorial and commercial work.
 [Visual Journal](https://visualjournal.it) | Italian design and visual culture journal showcasing creative projects and visual inspiration.
+[APPLORE](https://applore.app) | 18,000+ real App Store and Google Play app icons by color, style and category, with redesign history.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -86,6 +87,7 @@ Website | Description
 [Khroma](https://www.khroma.co/)| Khroma uses AI to learn which colors you like and creates limitless palettes.
 [Colorable](https://colorable.jxnblk.com/) | Take a set color palette and get contrast values for every possible combination.
 [Paletton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) | It allows you to do is build up a palette based on some proportion.
+[Color Genius](https://colorgenius.art/) | A free color perception game: match RGB colors by eye to train your color sense.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -165,6 +167,8 @@ Website | Description
 [Iconfinder](https://www.iconfinder.com/) | Millions of graphics for your design projects. Created by independent designers.
 [Iconscout](https://iconscout.com) | Get 5.3 Million+ free and premium icons (with GitHub Student Developer Pack you have free access to 60 premium icons from selected contributors every month for 1 year).
 [Thridy](https://thridy.com) | 13,000+ free 3D icons in one consistent style, HD transparent PNG downloads, no attribution or signup required, free for personal and commercial use.
+[SVGicons](https://svgicons.com/) | Search and copy SVG icons from open-source icon sets.
+[Trace Logos](https://trace-logos.ru/en/) | Free catalog of 800+ brand logos in SVG and PNG
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
