@@ -228,6 +228,7 @@ Website | Description
 [CodePen](https://codepen.io/) | CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
 [Give ’n’ Go](https://give-n-go.co/) | A curated gallery of Dribbble shots reworked as interactive CodePen pens.
 [CSS Dradient](https://cssgradient.io/) | CSS Gradient lets you create free gradient backgrounds for your website.
+[DESIGN:OS Studio](https://jangtrinh.github.io/design-os-studio/) | FREE desktop design studio that opens .fig files, generates React, Tailwind or SwiftUI code from a layer, and lets your AI agent edit the design.
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
