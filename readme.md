@@ -19,6 +19,7 @@ This repository is a collection of design resources that includes templates, sto
 
 Website | Description
 --------|------------
+[Design Details](https://designdetails.io) | A searchable library of real website designs with full-page captures, motion recordings, typography, and color breakdowns.
 [Muzli Search](https://search.muz.li) | The web-wide search engine for design inspiration.
 [Designspiration](https://www.designspiration.com) | Creative inspiration, colors, links, notes, screenshots
 [Archivepdf](https://www.archivepdf.net) |Vintage scans of fashion magazines
