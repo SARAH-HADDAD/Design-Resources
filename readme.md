@@ -59,6 +59,7 @@ Website | Description
 [GetWaves](https://getwaves.io/) | SVG wave generator.
 [Fffuel](https://fffuel.co) | Generative gradient patterns, shapes & textures.
 [SVGator](https://www.svgator.com) | Online SVG animation tool to design and export animated SVGs, Lottie, GIFs, and videos without coding.
+[iArt](https://www.iart.ai/) | Create motion graphics from text prompts, refine them by chatting, and export videos for logos, kinetic typography, and explainers. Free to start.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
