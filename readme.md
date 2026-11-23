@@ -59,6 +59,7 @@ Website | Description
 [GetWaves](https://getwaves.io/) | SVG wave generator.
 [Fffuel](https://fffuel.co) | Generative gradient patterns, shapes & textures.
 [SVGator](https://www.svgator.com) | Online SVG animation tool to design and export animated SVGs, Lottie, GIFs, and videos without coding.
+[CSS Gradient Generator](https://bestlatestapps.com/tools/css-gradient-generator/) | Build linear, radial or conic CSS gradients with colour stops and a live preview, then copy the CSS.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
