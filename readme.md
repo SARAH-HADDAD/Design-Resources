@@ -59,6 +59,7 @@ Website | Description
 [GetWaves](https://getwaves.io/) | SVG wave generator.
 [Fffuel](https://fffuel.co) | Generative gradient patterns, shapes & textures.
 [SVGator](https://www.svgator.com) | Online SVG animation tool to design and export animated SVGs, Lottie, GIFs, and videos without coding.
+[Kite](https://kite.new) | Design canvas your team and AI agents share: Claude, ChatGPT, Cursor or Codex draw editable frames and components, then copy to Figma or export HTML/React/Tailwind. Free plan.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
